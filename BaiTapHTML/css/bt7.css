@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 80%;
+    background-color: antiquewhite;
+    margin: 0px auto;
+    text-align: center;
+}
+.title{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+/* line của h2 */
+.title:after{
+  background-color: #339999;
+  content: "";
+  display: block;
+  height: 3px;
+  margin: 11px auto 30px;
+  width: 85px;
+}
+.home{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.home_li{
+    display: inline;
+    font-size: 22px;
+    margin-right: 20px;
+}
+.home_all{
+    color: #359a9a !important;
+}
+.home_link{
+    text-decoration: none;
+    color: black;
+}
+.menu{
+    width: 95%;
+    margin: 0px auto;
+    background-color: rgb(221, 217, 217);
+    padding: 20px;
+    box-sizing: border-box;
+}
+.item{
+    display:inline;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-right: 10px;
+} 
+.item_anh{
+    width: 30%;
+    height: 250px;
+    margin-bottom:10px;
+}
