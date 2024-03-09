@@ -3,7 +3,7 @@
     padding: 0;
 }
 .container{
-    background-image:url(background_bai2.jpg) ;
+    background-image:url(/BaiTapHTML-bt/BaiTapHTML/img/background_bai2.jpg) ;
     background-repeat:no-repeat;
     background-attachment: fixed;
     background-size: cover;
