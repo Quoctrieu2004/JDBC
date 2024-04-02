@@ -1,0 +1,1 @@
+autoReconnect=true&useSSL=false
